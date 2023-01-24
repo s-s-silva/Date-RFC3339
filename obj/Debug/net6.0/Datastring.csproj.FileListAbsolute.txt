@@ -1,0 +1,15 @@
+C:\Users\stefanie.avanade\Datastring\Datastring\obj\Debug\net6.0\Datastring.csproj.AssemblyReference.cache
+C:\Users\stefanie.avanade\Datastring\Datastring\obj\Debug\net6.0\Datastring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefanie.avanade\Datastring\Datastring\obj\Debug\net6.0\Datastring.AssemblyInfoInputs.cache
+C:\Users\stefanie.avanade\Datastring\Datastring\obj\Debug\net6.0\Datastring.AssemblyInfo.cs
+C:\Users\stefanie.avanade\Datastring\Datastring\obj\Debug\net6.0\Datastring.csproj.CoreCompileInputs.cache
+C:\Users\stefanie.avanade\Datastring\Datastring\bin\Debug\net6.0\Datastring.exe
+C:\Users\stefanie.avanade\Datastring\Datastring\bin\Debug\net6.0\Datastring.deps.json
+C:\Users\stefanie.avanade\Datastring\Datastring\bin\Debug\net6.0\Datastring.runtimeconfig.json
+C:\Users\stefanie.avanade\Datastring\Datastring\bin\Debug\net6.0\Datastring.dll
+C:\Users\stefanie.avanade\Datastring\Datastring\bin\Debug\net6.0\Datastring.pdb
+C:\Users\stefanie.avanade\Datastring\Datastring\obj\Debug\net6.0\Datastring.dll
+C:\Users\stefanie.avanade\Datastring\Datastring\obj\Debug\net6.0\refint\Datastring.dll
+C:\Users\stefanie.avanade\Datastring\Datastring\obj\Debug\net6.0\Datastring.pdb
+C:\Users\stefanie.avanade\Datastring\Datastring\obj\Debug\net6.0\Datastring.genruntimeconfig.cache
+C:\Users\stefanie.avanade\Datastring\Datastring\obj\Debug\net6.0\ref\Datastring.dll
