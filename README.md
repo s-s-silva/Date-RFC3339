@@ -10,7 +10,7 @@ O caractere ‘T’ é usado para separar data e hora, mas no RFC 3339 também p
 ## Fuso horário
 A adição do caractere ‘Z’ no final da data serve para referenciar zona e fuso horário. O ‘Z’ significa que o fuso horário é UTC + 0.
 
-## Padrão RFC 3339 para horário de Brasília=
+## Padrão RFC 3339 para horário de Brasília
 
 Se assumirmos que o DateTime do Brasil é
 24/01/2023 19:28:52 
